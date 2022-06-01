@@ -1,17 +1,12 @@
 # Automating Django Model Imports from Chromebook
-
-#### Contents 
-- [Network Topology](#Network-Topology)
-- [Code Coverage](#Code-Coverage)
 #### Code Coverage
 Code Coverage is an absolute necessity in programs to catch and raise errors before executing commands that could damage the system. In this example, Code Coverage will be very important during a backup and migration of our data, so it is important that all directories are created and handled without toppling the subsequent functions of the program. 
-- [Requirements](#Requirements)
+
 #### Requirements
 - Google Drive & A Chromebook 
 - Python3
 - Django
 - Django-Import-Export
-- [Script Breakdown](#Script-Breakdown)
 
 # Script Breakdown
 | Function|  Estimated Coverate   |
