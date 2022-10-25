@@ -13,9 +13,9 @@ Code Coverage is an absolute necessity in programs to catch and raise errors bef
 | --- | --- |
 | Media.py|  100%    |
 | --- | --- |
-| Export Models test.py|  10%    |
+| Export Models -> test.py|  10%    |
 | --- | --- |
-| Migrate & Write CSV import_csv.py |  50%    |
+| Migrate & Write CSV -> import_csv.py |  50%    |
 | --- | --- |
 | Rotate.py|  5%    |
 | --- | --- |
