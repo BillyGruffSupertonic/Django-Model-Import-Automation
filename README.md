@@ -9,7 +9,7 @@ Code Coverage is an absolute necessity in programs to catch and raise errors bef
 - Django-Import-Export
 
 # Script Breakdown
-| Function|  Estimated Coverate   |
+| Function|  Estimated Coverage   |
 | --- | --- |
 | Media|  100%    |
 | --- | --- |
