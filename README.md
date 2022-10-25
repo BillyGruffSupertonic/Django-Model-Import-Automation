@@ -11,13 +11,13 @@ Code Coverage is an absolute necessity in programs to catch and raise errors bef
 # Script Breakdown
 | Function|  Estimated Coverage   |
 | --- | --- |
-| Media|  100%    |
+| Media.py|  100%    |
 | --- | --- |
-| Export Models|  10%    |
+| Export Models test.py|  10%    |
 | --- | --- |
-| Migrate & Write CSV|  50%    |
+| Migrate & Write CSV import_csv.py |  50%    |
 | --- | --- |
-| Rotate|  5%    |
+| Rotate.py|  5%    |
 | --- | --- |
 
 - The Media Function is 100% a test function that is testing the Host OS and compatibility for mounting Google Drive to a Linux container. Chromebooks have this feature available to rotate files and compress into .tar.gz files to store the previous demonstration for a client.
